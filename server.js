@@ -4,7 +4,7 @@ const app = express()
 
 
 app.get(`/`,(req,res)=>{
-    res.send(`This is node app`)
+    res.send(`This is node app version 1.1`)
 })
 
 
